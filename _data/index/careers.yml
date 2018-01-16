@@ -1,29 +1,57 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Binghamton University - SUNY
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Master's of Science in Computer Science (GPA:3.8)
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Aug. 2017 - May. 2019*
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Graduate Student
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-university
 
 - name:
-    detail: Company B
+    detail: Harman - A Samsung Company.
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Worked on various Transformation Projects for British Telecom, Got my hands dirty on Angular,RESTful web services,Kafka,Druid and lot more...
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Mar. 2016 - Jul. 2017
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Software Engineer - Product Development
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-briefcase
+
+- name:
+    detail: Tech Mahindra Ltd.
+    i18n: company_b
+  desc:
+    detail: Worked on Legacy Billing Systems of AT&T. Worked on Java,Linux,SQL,Shell Scripts and other properitary tools...
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2013 - Mar. 2016
+    i18n: company_b_date
+  job:
+    detail: Software Engineer
+    i18n: company_b_job
+  icon: fa-briefcase
+
+- name:
+    detail: SVIT,India
+    i18n: company_b
+  desc:
+    detail: Bachloers of Engineering in Computer Engineering (GPA:3.7)
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2009 - Jul. 2013
+    i18n: company_b_date
+  job:
+    detail: Undergraduate Student
+    i18n: company_b_job
+  icon: fa-graduation-cap

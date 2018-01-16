@@ -1,6 +1,6 @@
 # skills section data
 
-label: Ability
+label: /Passion
 id : cs
-aspects: GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
-percentage: 100, 35, 65, 80, 70, 90, 50
+aspects: Java, Angular2/4, HTML/CSS, Oralce SQL&PL/SQL, Bootstrap/MaterialDesign, Kafka, Druid, MongoDB, Linux/Shell, DataVisualization, Cooking
+percentage: 80, 90, 80, 90, 90, 80, 80, 60, 70, 90, 100

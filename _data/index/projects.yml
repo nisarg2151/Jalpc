@@ -1,22 +1,31 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Academic
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  gh_user: nisarg2151
+  url: https://github.com/nisarg2151 
+  img: /static/assets/img/landing/binghamton.jpg
+  desc: Some of my Academic Work
 
-- name: Python
+- name: RBMS
   i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  gh_user: nisarg2151
+  repo: RBMS
+  img: /static/assets/img/landing/binghamton.jpg
+  desc: Dashboard for typical Retail Business Management System.
 
-- name: Google
+
+- name: BT-Works Marketplace
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  gh_user: nisarg2151
+  url: https://nisarg2151.github.io/Marketplace
+  img: /static/assets/img/landing/harman.png
+  desc: This system serves a pool of suppliers for business to engage with and facilitate the engagement via a digital platform for both the parties.
+
+- name: Minish
+  i18n: google
+  gh_user: nisarg2151
+  repo: Minish
+  img: /static/assets/img/landing/shell.png
+  desc: Mini unix bash like shell written in C with background & foreground process functionality.
