@@ -1,20 +1,6 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Academic
-  i18n: jalpc
-  gh_user: nisarg2151
-  url: https://github.com/nisarg2151 
-  img: /static/assets/img/landing/binghamton.jpg
-  desc: Some of my Academic Work
-
-- name: RBMS
-  i18n: cpython
-  gh_user: nisarg2151
-  repo: RBMS
-  img: /static/assets/img/landing/binghamton.jpg
-  desc: Dashboard for typical Retail Business Management System.
-
 
 - name: BT-Works Marketplace
   i18n: google
@@ -23,9 +9,21 @@
   img: /static/assets/img/landing/harman.png
   desc: This system serves a pool of suppliers for business to engage with and facilitate the engagement via a digital platform for both the parties.
 
+- name: Academic
+  i18n: jalpc
+  gh_user: nisarg2151
+  url: https://github.com/nisarg2151 
+  img: /static/assets/img/landing/binghamton.jpg
+  desc: Some of my Academic Work.Includes various sorting-searching, graph & trees, dynamic programming & greedy Algortihms.
+
+- name: RBMS
+  i18n: cpython
+  url: https://github.com/nisarg2151/RBMS 
+  img: /static/assets/img/landing/binghamton.jpg
+  desc: Dashboard for typical Retail Business Management System.
+
 - name: Minish
   i18n: google
-  gh_user: nisarg2151
-  repo: Minish
+  url: https://github.com/nisarg2151/minish 
   img: /static/assets/img/landing/shell.png
   desc: Mini unix bash like shell written in C with background & foreground process functionality.

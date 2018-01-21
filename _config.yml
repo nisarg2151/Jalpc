@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Nisarg
+title: Nisarg Patel
 description: Nisarg Patel's Website using gh-pages and jekyll.
 keywords: Nisarg,nisarg2151,Angular,binghamton,gh-pages
 baseurl:  /nisarg2151.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -14,19 +14,19 @@ author:  # change following line to your infomation.
   name: Nisarg Patel  # Be used at blog posts' author.
   first_name: Nisarg  # Be used at index page about me section.
   last_name: Patel  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar2.png  # upload your avatar at directory and edit it.
   github_username: nisarg2151  # Leave blank if you don't have now
   linkedin_id: nisarg2151 # Leave blank if you don't have now
   facebook_username:  # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
   email: nisarg.2151@gmail.com  # Leave blank if you don't have now
-  cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: /nisarg2151.github.io/static/assets/Nisargkumar_Resume.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
     - name: fa-linux
   skill_icon2:
-    - name: fa-linux
+    - name: fa-java
     - name: icon-apache
   desc: I am Full Stack Developer who can develop Frontend for enterprise web applications, develop backend restful web services, design and setup variety of databases and manage production environment in a distributed linux cluster.   # Describe yourself.
 
