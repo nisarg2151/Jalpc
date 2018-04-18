@@ -15,6 +15,20 @@
   icon: fa-university
 
 - name:
+    detail: Binghamton University -SUNY.
+    i18n: company_b
+  desc:
+    detail: Teaching Assistant for Algorithms course, solve and grade assignments, exams and resolve queries of sudents regarding the same, pursuing research in edge/cloud computing
+    i18n: company_b_desc
+  date:
+    detail: Jan. 2018 - May 2018
+    i18n: company_b_date
+  job:
+    detail: Graduate Teaching / Research Assistant
+    i18n: company_b_job
+  icon: fa-briefcase
+  
+- name:
     detail: Harman - A Samsung Company.
     i18n: company_b
   desc:
