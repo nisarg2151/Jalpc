@@ -20,7 +20,13 @@
   url: https://github.com/nisarg2151/RBMS 
   img: /static/assets/img/landing/binghamton.jpg
   desc: Dashboard for typical Retail Business Management System.
-  
+ 
+- name: Minish
+  i18n: google
+  url: https://github.com/nisarg2151/minish 
+  img: /static/assets/img/landing/shell.png
+  desc: Mini unix bash like shell written in C with background & foreground process functionality.
+   
 - name: Academic
   i18n: jalpc
   gh_user: nisarg2151
@@ -28,14 +34,3 @@
   img: /static/assets/img/landing/binghamton.jpg
   desc: Some of my Academic Work.Includes various sorting-searching, graph & trees, dynamic programming & greedy Algortihms.
 
-- name: RBMS
-  i18n: cpython
-  url: https://github.com/nisarg2151/RBMS 
-  img: /static/assets/img/landing/binghamton.jpg
-  desc: Dashboard for typical Retail Business Management System.
-
-- name: Minish
-  i18n: google
-  url: https://github.com/nisarg2151/minish 
-  img: /static/assets/img/landing/shell.png
-  desc: Mini unix bash like shell written in C with background & foreground process functionality.
