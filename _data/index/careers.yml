@@ -14,7 +14,7 @@
     i18n: company_a_job
   icon: fa-university
 
-  - name:
+- name:
     detail: Binghamton University - SUNY.
     i18n: company_b
   desc:
