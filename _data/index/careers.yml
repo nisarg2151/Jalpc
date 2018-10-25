@@ -4,18 +4,32 @@
     detail: Binghamton University - SUNY
     i18n: company_a
   desc:
-    detail: Master's of Science in Computer Science (GPA:3.8)
+    detail: Master's of Science in Computer Science (GPA:3.9)   (Programming for the Web, Machine Learning, Database Systems, OS, DAA)
     i18n: company_a_desc
   date:
-    detail: Aug. 2017 - May. 2019*
+    detail: Aug. 2017 - Dec. 2018*
     i18n: company_a_date
   job:
     detail: Graduate Student
     i18n: company_a_job
   icon: fa-university
 
+  - name:
+    detail: Binghamton University - SUNY.
+    i18n: company_b
+  desc:
+    detail: Working as UI Developer/Data Analyst at United Health Services, Business Intelligence Dept. (JavaScript, SQL, PHP etc)
+    i18n: company_b_desc
+  date:
+    detail: May. 2018 - Present
+    i18n: company_b_date
+  job:
+    detail: Graduate Research Associate
+    i18n: company_b_job
+  icon: fa-briefcase
+
 - name:
-    detail: Binghamton University -SUNY.
+    detail: Binghamton University - SUNY.
     i18n: company_b
   desc:
     detail: Teaching Assistant for Algorithms course, solve and grade assignments, exams and resolve queries of sudents regarding the same, pursuing research in edge/cloud computing

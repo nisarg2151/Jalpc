@@ -2,6 +2,12 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
+- name: Steganography
+  i18n: google
+  url: https://github.com/nisarg2151/steganography
+  img: /static/assets/img/landing/steganography.png
+  desc: Steganography project in Web class to explore Node.js, MongoDB, Express, Mustache, REST etc.
+  
 - name: BT-Works Marketplace
   i18n: google
   gh_user: nisarg2151
@@ -9,6 +15,12 @@
   img: /static/assets/img/landing/harman.png
   desc: This system serves a pool of suppliers for business to engage with and facilitate the engagement via a digital platform for both the parties.
 
+- name: RBMS
+  i18n: cpython
+  url: https://github.com/nisarg2151/RBMS 
+  img: /static/assets/img/landing/binghamton.jpg
+  desc: Dashboard for typical Retail Business Management System.
+  
 - name: Academic
   i18n: jalpc
   gh_user: nisarg2151
